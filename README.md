@@ -1,6 +1,8 @@
 ## Simple ETL Pipeline
 This repository contains a simple Python-based ETL (Extract, Transform, Load) pipeline implemented in a Jupyter Notebook. The project demonstrates how to extract data from a CSV file, transform it using pandas, and load it into a SQLite database.
 
+[Open my jupiter notebook for ETL pipeline](https://colab.research.google.com/drive/1oKBgB3hxC8YPWIvsnyPLo7SnMw57QXKk?usp=sharing)
+
 ### Project Overview
 ETL pipelines are essential for data engineering and analytics workflows. This project provides a beginner-friendly example of how to build an ETL pipeline using Python.
 
